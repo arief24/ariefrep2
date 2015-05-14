@@ -1,6 +1,7 @@
 # ariefrep2
 ISIFILE
 
-/home/arief/Gambar/Cuplikan layar dari 2015-05-03 15:07:41.png
+
 M ARIEF AKBAR 
 52-003
+file:///home/arief/Gambar/Cuplikan%20layar%20dari%202015-05-03%2015:07:41.png
